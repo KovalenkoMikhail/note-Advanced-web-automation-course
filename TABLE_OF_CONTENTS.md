@@ -32,7 +32,7 @@
 
 ---
 
-### [Part 2: Automation & Tools](complete_it_lecture_notes_part2.md)
+### [Part 2: Web Automation & Testing Basics](translated/part2_web_automation_testing_basics.md)
 
 **Sections 9-18:**
 
@@ -68,7 +68,7 @@
 
 ---
 
-### [Part 3: Testing & Infrastructure](complete_it_lecture_notes_part3.md)
+### [Part 3: QA, Databases & Docker](translated/part3_qa_databases_docker.md)
 
 **Sections 19-23:**
 
@@ -91,7 +91,7 @@
 
 ---
 
-### [Part 4: Advanced Topics](complete_it_lecture_notes_part4.md)
+### [Part 4: DevOps, JavaScript & Kubernetes](translated/part4_devops_javascript_kubernetes.md)
 
 **Sections 24-38:**
 
