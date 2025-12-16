@@ -8,7 +8,7 @@ This comprehensive guide covers networking, testing, DevOps, databases, and prog
 
 ## 📚 Quick Navigation
 
-### [1. Networking, Protocols & HTTP](notes/01_networking_protocols_http.md)
+### [1. Networking, Protocols & HTTP](01_networking_protocols_http.md)
 **Topics:** DNS, TCP/UDP, QUIC, HTTP/1/2/3, OSI Model, SSH
 
 Master the fundamentals of network protocols, DNS resolution, HTTP versions, and secure connections.
@@ -23,7 +23,7 @@ Master the fundamentals of network protocols, DNS resolution, HTTP versions, and
 
 ---
 
-### [2. Testing, QA & Automation](notes/02_testing_qa_automation.md)
+### [2. Testing, QA & Automation](02_testing_qa_automation.md)
 **Topics:** Test Design, JUnit 5, JMeter, Playwright, Postman, XPath, Mocks/Stubs
 
 Complete guide to software testing methodologies, automation frameworks, and QA best practices.
@@ -43,7 +43,7 @@ Complete guide to software testing methodologies, automation frameworks, and QA 
 
 ---
 
-### [3. Version Control, DevOps & CI/CD](notes/03_version_control_devops_cicd.md)
+### [3. Version Control, DevOps & CI/CD](03_version_control_devops_cicd.md)
 **Topics:** Git, Git Flow, Jenkins, Docker, Kubernetes
 
 Master version control, containerization, and continuous integration/deployment pipelines.
@@ -59,7 +59,7 @@ Master version control, containerization, and continuous integration/deployment 
 
 ---
 
-### [4. Databases, Backend & APIs](notes/04_databases_backend_apis.md)
+### [4. Databases, Backend & APIs](04_databases_backend_apis.md)
 **Topics:** SQL/NoSQL, MongoDB, DLQ, RabbitMQ, REST API, JWT, OAuth 2
 
 Comprehensive coverage of databases, message queues, REST APIs, and authentication.
@@ -77,7 +77,7 @@ Comprehensive coverage of databases, message queues, REST APIs, and authenticati
 
 ---
 
-### [5. Programming Fundamentals](notes/05_programming_fundamentals.md)
+### [5. Programming Fundamentals](05_programming_fundamentals.md)
 **Topics:** Java, JavaScript, HTML, Linux, Browser Storage
 
 Essential programming concepts, scripting, and web development fundamentals.
@@ -109,96 +109,96 @@ Quick-reference glossary with:
 ## 🎯 Learning Paths
 
 ### For QA Engineers:
-1. [Testing, QA & Automation](notes/02_testing_qa_automation.md) ⭐ Start here
-2. [Networking, Protocols & HTTP](notes/01_networking_protocols_http.md)
-3. [Databases, Backend & APIs](notes/04_databases_backend_apis.md)
-4. [Version Control, DevOps & CI/CD](notes/03_version_control_devops_cicd.md)
+1. [Testing, QA & Automation](02_testing_qa_automation.md) ⭐ Start here
+2. [Networking, Protocols & HTTP](01_networking_protocols_http.md)
+3. [Databases, Backend & APIs](04_databases_backend_apis.md)
+4. [Version Control, DevOps & CI/CD](03_version_control_devops_cicd.md)
 
 ### For Backend Developers:
-1. [Databases, Backend & APIs](notes/04_databases_backend_apis.md) ⭐ Start here
-2. [Programming Fundamentals](notes/05_programming_fundamentals.md)
-3. [Networking, Protocols & HTTP](notes/01_networking_protocols_http.md)
-4. [Version Control, DevOps & CI/CD](notes/03_version_control_devops_cicd.md)
+1. [Databases, Backend & APIs](04_databases_backend_apis.md) ⭐ Start here
+2. [Programming Fundamentals](05_programming_fundamentals.md)
+3. [Networking, Protocols & HTTP](01_networking_protocols_http.md)
+4. [Version Control, DevOps & CI/CD](03_version_control_devops_cicd.md)
 
 ### For DevOps Engineers:
-1. [Version Control, DevOps & CI/CD](notes/03_version_control_devops_cicd.md) ⭐ Start here
-2. [Networking, Protocols & HTTP](notes/01_networking_protocols_http.md)
-3. [Databases, Backend & APIs](notes/04_databases_backend_apis.md)
-4. [Testing, QA & Automation](notes/02_testing_qa_automation.md)
+1. [Version Control, DevOps & CI/CD](03_version_control_devops_cicd.md) ⭐ Start here
+2. [Networking, Protocols & HTTP](01_networking_protocols_http.md)
+3. [Databases, Backend & APIs](04_databases_backend_apis.md)
+4. [Testing, QA & Automation](02_testing_qa_automation.md)
 
 ### For Full-Stack Developers:
-1. [Programming Fundamentals](notes/05_programming_fundamentals.md) ⭐ Start here
-2. [Databases, Backend & APIs](notes/04_databases_backend_apis.md)
-3. [Networking, Protocols & HTTP](notes/01_networking_protocols_http.md)
-4. [Testing, QA & Automation](notes/02_testing_qa_automation.md)
-5. [Version Control, DevOps & CI/CD](notes/03_version_control_devops_cicd.md)
+1. [Programming Fundamentals](05_programming_fundamentals.md) ⭐ Start here
+2. [Databases, Backend & APIs](04_databases_backend_apis.md)
+3. [Networking, Protocols & HTTP](01_networking_protocols_http.md)
+4. [Testing, QA & Automation](02_testing_qa_automation.md)
+5. [Version Control, DevOps & CI/CD](03_version_control_devops_cicd.md)
 
 ---
 
 ## 🔍 Search by Topic
 
 ### APIs & Web Services
-- REST API principles → [Databases & Backend](notes/04_databases_backend_apis.md)
-- JWT & OAuth 2 → [Databases & Backend](notes/04_databases_backend_apis.md)
-- Telegram Bot API → [Databases & Backend](notes/04_databases_backend_apis.md)
-- Fetch API → [Testing & QA](notes/02_testing_qa_automation.md)
-- Postman testing → [Testing & QA](notes/02_testing_qa_automation.md)
+- REST API principles → [Databases & Backend](04_databases_backend_apis.md)
+- JWT & OAuth 2 → [Databases & Backend](04_databases_backend_apis.md)
+- Telegram Bot API → [Databases & Backend](04_databases_backend_apis.md)
+- Fetch API → [Testing & QA](02_testing_qa_automation.md)
+- Postman testing → [Testing & QA](02_testing_qa_automation.md)
 
 ### Automation & Testing
-- Playwright automation → [Testing & QA](notes/02_testing_qa_automation.md)
-- XPath & CSS selectors → [Testing & QA](notes/02_testing_qa_automation.md)
-- JUnit 5 testing → [Testing & QA](notes/02_testing_qa_automation.md)
-- JMeter performance testing → [Testing & QA](notes/02_testing_qa_automation.md)
-- Test design techniques → [Testing & QA](notes/02_testing_qa_automation.md)
-- Mocks and Stubs → [Testing & QA](notes/02_testing_qa_automation.md)
+- Playwright automation → [Testing & QA](02_testing_qa_automation.md)
+- XPath & CSS selectors → [Testing & QA](02_testing_qa_automation.md)
+- JUnit 5 testing → [Testing & QA](02_testing_qa_automation.md)
+- JMeter performance testing → [Testing & QA](02_testing_qa_automation.md)
+- Test design techniques → [Testing & QA](02_testing_qa_automation.md)
+- Mocks and Stubs → [Testing & QA](02_testing_qa_automation.md)
 
 ### Databases
-- SQL vs NoSQL → [Databases & Backend](notes/04_databases_backend_apis.md)
-- MongoDB operations → [Databases & Backend](notes/04_databases_backend_apis.md)
-- UUID vs ULID → [Databases & Backend](notes/04_databases_backend_apis.md)
+- SQL vs NoSQL → [Databases & Backend](04_databases_backend_apis.md)
+- MongoDB operations → [Databases & Backend](04_databases_backend_apis.md)
+- UUID vs ULID → [Databases & Backend](04_databases_backend_apis.md)
 
 ### DevOps & Infrastructure
-- Docker containers → [Version Control & DevOps](notes/03_version_control_devops_cicd.md)
-- Kubernetes → [Version Control & DevOps](notes/03_version_control_devops_cicd.md)
-- Jenkins CI/CD → [Version Control & DevOps](notes/03_version_control_devops_cicd.md)
+- Docker containers → [Version Control & DevOps](03_version_control_devops_cicd.md)
+- Kubernetes → [Version Control & DevOps](03_version_control_devops_cicd.md)
+- Jenkins CI/CD → [Version Control & DevOps](03_version_control_devops_cicd.md)
 
 ### Message Queues
-- RabbitMQ → [Databases & Backend](notes/04_databases_backend_apis.md)
-- Dead Letter Queue → [Databases & Backend](notes/04_databases_backend_apis.md)
+- RabbitMQ → [Databases & Backend](04_databases_backend_apis.md)
+- Dead Letter Queue → [Databases & Backend](04_databases_backend_apis.md)
 
 ### Monitoring & Logging
-- System monitoring → [Databases & Backend](notes/04_databases_backend_apis.md)
-- Log analysis → [Databases & Backend](notes/04_databases_backend_apis.md)
-- Performance metrics → [Databases & Backend](notes/04_databases_backend_apis.md)
+- System monitoring → [Databases & Backend](04_databases_backend_apis.md)
+- Log analysis → [Databases & Backend](04_databases_backend_apis.md)
+- Performance metrics → [Databases & Backend](04_databases_backend_apis.md)
 
 ### Networking
-- DNS system → [Networking & Protocols](notes/01_networking_protocols_http.md)
-- TCP vs UDP → [Networking & Protocols](notes/01_networking_protocols_http.md)
-- HTTP/1/2/3 → [Networking & Protocols](notes/01_networking_protocols_http.md)
-- QUIC protocol → [Networking & Protocols](notes/01_networking_protocols_http.md)
-- OSI Model → [Networking & Protocols](notes/01_networking_protocols_http.md)
-- SSH connections → [Networking & Protocols](notes/01_networking_protocols_http.md)
+- DNS system → [Networking & Protocols](01_networking_protocols_http.md)
+- TCP vs UDP → [Networking & Protocols](01_networking_protocols_http.md)
+- HTTP/1/2/3 → [Networking & Protocols](01_networking_protocols_http.md)
+- QUIC protocol → [Networking & Protocols](01_networking_protocols_http.md)
+- OSI Model → [Networking & Protocols](01_networking_protocols_http.md)
+- SSH connections → [Networking & Protocols](01_networking_protocols_http.md)
 
 ### Programming
-- JavaScript functions → [Programming Fundamentals](notes/05_programming_fundamentals.md)
-- JavaScript iteration → [Programming Fundamentals](notes/05_programming_fundamentals.md)
-- HTML basics → [Programming Fundamentals](notes/05_programming_fundamentals.md)
-- Java programming → [Programming Fundamentals](notes/05_programming_fundamentals.md)
+- JavaScript functions → [Programming Fundamentals](05_programming_fundamentals.md)
+- JavaScript iteration → [Programming Fundamentals](05_programming_fundamentals.md)
+- HTML basics → [Programming Fundamentals](05_programming_fundamentals.md)
+- Java programming → [Programming Fundamentals](05_programming_fundamentals.md)
 
 ### Security
-- SSH security → [Networking & Protocols](notes/01_networking_protocols_http.md)
-- JWT authentication → [Databases & Backend](notes/04_databases_backend_apis.md)
-- OAuth 2 → [Databases & Backend](notes/04_databases_backend_apis.md)
-- CSRF & XSS → [Programming Fundamentals](notes/05_programming_fundamentals.md)
+- SSH security → [Networking & Protocols](01_networking_protocols_http.md)
+- JWT authentication → [Databases & Backend](04_databases_backend_apis.md)
+- OAuth 2 → [Databases & Backend](04_databases_backend_apis.md)
+- CSRF & XSS → [Programming Fundamentals](05_programming_fundamentals.md)
 
 ### System Administration
-- Linux commands → [Programming Fundamentals](notes/05_programming_fundamentals.md)
-- Browser storage → [Programming Fundamentals](notes/05_programming_fundamentals.md)
+- Linux commands → [Programming Fundamentals](05_programming_fundamentals.md)
+- Browser storage → [Programming Fundamentals](05_programming_fundamentals.md)
 
 ### Version Control
-- Git basics → [Version Control & DevOps](notes/03_version_control_devops_cicd.md)
-- Git Flow → [Version Control & DevOps](notes/03_version_control_devops_cicd.md)
-- Git advanced → [Version Control & DevOps](notes/03_version_control_devops_cicd.md)
+- Git basics → [Version Control & DevOps](03_version_control_devops_cicd.md)
+- Git Flow → [Version Control & DevOps](03_version_control_devops_cicd.md)
+- Git advanced → [Version Control & DevOps](03_version_control_devops_cicd.md)
 
 ---
 
