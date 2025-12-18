@@ -92,6 +92,33 @@ Essential programming concepts, scripting, and web development fundamentals.
 
 ---
 
+### [6. Playwright Automation Framework](lecturePlaywright/PLAYWRIGHT_BEST_PRACTICES.md)
+**Topics:** Installation, Locators, Actions, Page Objects, Debugging, Browser Context, Hooks, Tags
+
+Complete Playwright course with 11 comprehensive lectures covering everything from basics to advanced patterns.
+
+**What You'll Learn:**
+- Playwright installation and setup
+- Chrome DevTools Protocol (CDP)
+- npm, package.json, and dependencies
+- Accessibility-first locators (getByRole, getByLabel)
+- User interactions (click, fill, hover, drag-and-drop)
+- AAA Pattern and assertions
+- Page Object and Page Component patterns
+- OOP composition in test automation
+- Debugging with Inspector and Trace Viewer
+- Browser contexts for multi-user testing
+- Test hooks (beforeAll, beforeEach, afterEach, afterAll)
+- Test steps and tags for organization
+- Best practices and performance optimization
+
+**Course Structure:**
+- **Foundation (Lectures 3-6)**: Installation, Architecture, npm
+- **Core Skills (Lectures 7-9)**: Locators, Actions, Assertions
+- **Advanced Patterns (Lectures 11-13)**: Page Objects, Debugging, Contexts
+
+---
+
 ## 📖 Additional Resources
 
 ### [Technical Glossary](GLOSSARY.md)
@@ -109,10 +136,11 @@ Quick-reference glossary with:
 ## 🎯 Learning Paths
 
 ### For QA Engineers:
-1. [Testing, QA & Automation](02_testing_qa_automation.md) ⭐ Start here
-2. [Networking, Protocols & HTTP](01_networking_protocols_http.md)
-3. [Databases, Backend & APIs](04_databases_backend_apis.md)
-4. [Version Control, DevOps & CI/CD](03_version_control_devops_cicd.md)
+1. [Playwright Automation Framework](lecturePlaywright/PLAYWRIGHT_BEST_PRACTICES.md) ⭐ Start here
+2. [Testing, QA & Automation](02_testing_qa_automation.md)
+3. [Networking, Protocols & HTTP](01_networking_protocols_http.md)
+4. [Databases, Backend & APIs](04_databases_backend_apis.md)
+5. [Version Control, DevOps & CI/CD](03_version_control_devops_cicd.md)
 
 ### For Backend Developers:
 1. [Databases, Backend & APIs](04_databases_backend_apis.md) ⭐ Start here
@@ -145,6 +173,11 @@ Quick-reference glossary with:
 - Postman testing → [Testing & QA](02_testing_qa_automation.md)
 
 ### Automation & Testing
+- **Playwright complete course** → [Playwright Framework](lecturePlaywright/PLAYWRIGHT_BEST_PRACTICES.md)
+- Playwright locators (accessibility-first) → [Playwright Lecture 7](lecturePlaywright/lecture_7_playwright_locators_selectors.md)
+- Page Object Pattern → [Playwright Lecture 11](lecturePlaywright/lecture_11_page_object_page_component_oop_composition.md)
+- Debugging with Trace Viewer → [Playwright Lecture 12](lecturePlaywright/lecture_12_debugging_javascript_playwright_inspector_trace_viewer.md)
+- Browser contexts and hooks → [Playwright Lecture 13](lecturePlaywright/lecture_13_browser_context_hooks_steps_tags.md)
 - Playwright automation → [Testing & QA](02_testing_qa_automation.md)
 - XPath & CSS selectors → [Testing & QA](02_testing_qa_automation.md)
 - JUnit 5 testing → [Testing & QA](02_testing_qa_automation.md)
