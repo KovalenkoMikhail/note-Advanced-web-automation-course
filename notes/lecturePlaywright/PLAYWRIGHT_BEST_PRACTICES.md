@@ -1,9 +1,10 @@
 # 🎭 Playwright Course - Complete Guide & Best Practices
 
-**Last Updated**: December 18, 2025  
+**Last Updated**: December 19, 2025  
 **Course**: Advanced Web Automation with Playwright  
-**Instructor**: Ilarion Halushka  
-**Total Lectures**: 12 completed
+**Instructor**: [Ilarion Halushka](https://www.youtube.com/@IlarionHalushka) 🎓  
+**YouTube**: [@IlarionHalushka](https://www.youtube.com/@IlarionHalushka)  
+**Total Lectures**: 13 completed
 
 ---
 
@@ -609,6 +610,7 @@ You've completed a comprehensive Playwright course covering:
 
 ---
 
-**Last Updated**: December 18, 2025  
+**Last Updated**: December 19, 2025  
+**Instructor**: [Ilarion Halushka](https://www.youtube.com/@IlarionHalushka)  
 **Repository**: [ENGL-version](https://github.com/KovalenkoMikhail/ENGL-version)  
 **Branch**: `playwright-note`

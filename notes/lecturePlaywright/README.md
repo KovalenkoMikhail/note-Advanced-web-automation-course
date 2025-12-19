@@ -1,7 +1,8 @@
 # 🎭 Playwright Automation Framework - Complete Course
 
-**Instructor**: Ilarion Halushka  
-**Total Lectures**: 12 comprehensive lectures  
+**Instructor**: [Ilarion Halushka](https://www.youtube.com/@IlarionHalushka) 🎓  
+**YouTube Channel**: [@IlarionHalushka](https://www.youtube.com/@IlarionHalushka)  
+**Total Lectures**: 13 comprehensive lectures  
 **Course Level**: Beginner to Advanced  
 **Repository**: [ENGL-version](https://github.com/KovalenkoMikhail/ENGL-version)  
 
@@ -168,9 +169,11 @@ Plus:
 - [Playwright GitHub](https://github.com/microsoft/playwright) - Source code
 
 ### Video Course
-- **YouTube**: Ilarion Halushka's Playwright course
+- **YouTube Channel**: [@IlarionHalushka](https://www.youtube.com/@IlarionHalushka)
+- **Course**: Advanced Web Automation JavaScript/TypeScript
 - **Duration**: 13+ lectures (50-95 minutes each)
 - **Language**: English with Ukrainian subtitles
+- **Quality**: Professional instruction with real-world examples
 
 ### Practice Sites
 - [DemoQA](https://demoqa.com/) - Elements, forms, interactions
@@ -431,9 +434,10 @@ Plus:
 
 ### Instructor
 **Ilarion Halushka**  
-- YouTube: [Playwright Course](https://youtube.com)
-- GitHub: Course materials
-- Email: Contact for questions
+- **YouTube**: [@IlarionHalushka](https://www.youtube.com/@IlarionHalushka)
+- **Course**: Advanced Web Automation JavaScript/TypeScript
+- **Teaching Style**: Clear explanations, practical examples, real-world scenarios
+- **Community**: Active on YouTube with helpful responses
 
 ### Repository Maintainer
 **GitHub**: [ENGL-version](https://github.com/KovalenkoMikhail/ENGL-version)  
