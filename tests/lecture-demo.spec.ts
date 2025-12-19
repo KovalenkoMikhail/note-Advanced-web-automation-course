@@ -95,8 +95,8 @@ test.describe('Page Interactions Demo', () => {
     const searchInput = page.getByPlaceholder('Search docs');
     await searchInput.fill('installation');
     
-    // Wait a bit to see suggestions
-    await page.waitForTimeout(1000);
+    // Wait for search suggestions to appear
+    await page.waitForSelector('.autocomplete-suggestions');
     
     // Assert search input has value
     await expect(searchInput).toHaveValue('installation');

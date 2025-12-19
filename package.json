@@ -3,7 +3,15 @@
   "version": "1.0.0",
   "description": "> Comprehensive IT knowledge base covering networking, testing, DevOps, databases, and programming fundamentals.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:chrome": "npx playwright test --project=chromium",
+    "test:debug": "npx playwright test --debug",
+    "test:report": "npx playwright show-report",
+    "test:headed": "npx playwright test --headed",
+    "test:codegen": "npx playwright codegen"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KovalenkoMikhail/ENGL-version.git"
