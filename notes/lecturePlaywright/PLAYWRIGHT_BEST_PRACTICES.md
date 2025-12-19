@@ -4,6 +4,7 @@
 **Course**: Advanced Web Automation with Playwright  
 **Instructor**: [Ilarion Halushka](https://www.youtube.com/@IlarionHalushka) 🎓  
 **YouTube**: [@IlarionHalushka](https://www.youtube.com/@IlarionHalushka)  
+**Website**: [ilarionhalushka.github.io](https://ilarionhalushka.github.io/)  
 **Total Lectures**: 13 completed
 
 ---

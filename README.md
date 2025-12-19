@@ -10,6 +10,7 @@
 **Complete Course**: 13 lectures covering web automation from beginner to advanced  
 **Instructor**: [Ilarion Halushka](https://www.youtube.com/@IlarionHalushka) 🎓  
 **YouTube**: [@IlarionHalushka](https://www.youtube.com/@IlarionHalushka)  
+**Website**: [ilarionhalushka.github.io](https://ilarionhalushka.github.io/)  
 **Course Materials**: [📂 notes/lecturePlaywright/](notes/lecturePlaywright/)
 
 - ✅ 13 comprehensive lectures (~60,000 words)

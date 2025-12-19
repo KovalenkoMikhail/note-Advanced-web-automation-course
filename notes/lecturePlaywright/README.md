@@ -2,6 +2,7 @@
 
 **Instructor**: [Ilarion Halushka](https://www.youtube.com/@IlarionHalushka) 🎓  
 **YouTube Channel**: [@IlarionHalushka](https://www.youtube.com/@IlarionHalushka)  
+**Website**: [ilarionhalushka.github.io](https://ilarionhalushka.github.io/)  
 **Total Lectures**: 13 comprehensive lectures  
 **Course Level**: Beginner to Advanced  
 **Repository**: [ENGL-version](https://github.com/KovalenkoMikhail/ENGL-version)  
@@ -435,6 +436,7 @@ Plus:
 ### Instructor
 **Ilarion Halushka**  
 - **YouTube**: [@IlarionHalushka](https://www.youtube.com/@IlarionHalushka)
+- **Website**: [ilarionhalushka.github.io](https://ilarionhalushka.github.io/)
 - **Course**: Advanced Web Automation JavaScript/TypeScript
 - **Teaching Style**: Clear explanations, practical examples, real-world scenarios
 - **Community**: Active on YouTube with helpful responses
